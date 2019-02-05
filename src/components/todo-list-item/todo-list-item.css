@@ -1,0 +1,13 @@
+.todo-list-item .btn-sm {
+    width: 30px;
+    height: 30px;
+}
+
+.todo-list-item.done {
+    text-decoration: line-through;
+}
+
+.todo-list-item.important .todo-list-item-label {
+    color: steelblue;
+    font-weight: bold;
+}
